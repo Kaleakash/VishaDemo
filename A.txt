@@ -1,2 +1,4 @@
 A text file
 Added another content
+
+HI
